@@ -1,0 +1,5 @@
+Mutation probability:
+  - As a function of max fitness -> if pop is bad, there will be more mutation
+  - Constant
+Mutation effects:
+  - In binary encodings, can vastly change phenotype
